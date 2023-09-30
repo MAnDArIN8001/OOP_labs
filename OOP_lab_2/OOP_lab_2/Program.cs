@@ -1,7 +1,5 @@
 ﻿using OOP_lab_2;
 
-bool flag = true;
-
 string userAnsw;
 
 int busesCount = 0;

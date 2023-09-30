@@ -9,7 +9,7 @@ namespace OOP_lab_2
      internal partial class Bus {
         private static int _busesConut;
 
-        private int _busId;
+        private readonly int _busId;
         private int _routeId;
 
         private float _ride;
@@ -67,6 +67,10 @@ namespace OOP_lab_2
 
         public Bus(string driver, string carMark, DateTime startExploreDate, float ride = 0, int routeId = 9898, int busId = 6969)
             : this(routeId, busId, ride, driver, carMark, startExploreDate) { }
+
+        private Bus(int id) {
+            Console.WriteLine(id);
+        }
 
         private void GetStartExploreDate(string date, ref DateTime dateTime) {
             string[] dateArr = date.Split('.');

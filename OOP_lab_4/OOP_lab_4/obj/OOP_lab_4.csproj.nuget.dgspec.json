@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programs\\OOP_labs\\OOP_lab_1\\OOP_lab_1\\OOP_lab_1.csproj": {}
+    "D:\\Programs\\OOP_labs\\OOP_lab_4\\OOP_lab_4\\OOP_lab_4.csproj": {}
   },
   "projects": {
-    "D:\\Programs\\OOP_labs\\OOP_lab_1\\OOP_lab_1\\OOP_lab_1.csproj": {
+    "D:\\Programs\\OOP_labs\\OOP_lab_4\\OOP_lab_4\\OOP_lab_4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programs\\OOP_labs\\OOP_lab_1\\OOP_lab_1\\OOP_lab_1.csproj",
-        "projectName": "OOP_lab_1",
-        "projectPath": "D:\\Programs\\OOP_labs\\OOP_lab_1\\OOP_lab_1\\OOP_lab_1.csproj",
+        "projectUniqueName": "D:\\Programs\\OOP_labs\\OOP_lab_4\\OOP_lab_4\\OOP_lab_4.csproj",
+        "projectName": "OOP_lab_4",
+        "projectPath": "D:\\Programs\\OOP_labs\\OOP_lab_4\\OOP_lab_4\\OOP_lab_4.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Programs\\OOP_labs\\OOP_lab_1\\OOP_lab_1\\obj\\",
+        "outputPath": "D:\\Programs\\OOP_labs\\OOP_lab_4\\OOP_lab_4\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
