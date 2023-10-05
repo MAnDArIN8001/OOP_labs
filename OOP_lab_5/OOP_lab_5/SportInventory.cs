@@ -1,4 +1,5 @@
 ﻿using System;
+using OOP_lab_5.CustomExceptions;
 using OOP_lab_5.Items;
 
 namespace OOP_lab_5 {
@@ -20,7 +21,14 @@ namespace OOP_lab_5 {
         }
 
         public void AddItem(SportItem newItem) {
-            _items.Add(newItem);
+            try {
+                if (newItem == null)
+                    throw new MissedItemException("this item is null");
+
+                _items.Add(newItem);
+            } catch(MissedItemException ex) { 
+                Console.WriteLine(ex.Message);
+            }
         }
 
         public void RemoveLast() {
