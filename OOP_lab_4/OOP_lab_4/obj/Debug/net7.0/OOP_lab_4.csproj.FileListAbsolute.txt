@@ -1,0 +1,14 @@
+D:\Programs\OOP_labs\OOP_lab_4\OOP_lab_4\bin\Debug\net7.0\OOP_lab_4.exe
+D:\Programs\OOP_labs\OOP_lab_4\OOP_lab_4\bin\Debug\net7.0\OOP_lab_4.deps.json
+D:\Programs\OOP_labs\OOP_lab_4\OOP_lab_4\bin\Debug\net7.0\OOP_lab_4.runtimeconfig.json
+D:\Programs\OOP_labs\OOP_lab_4\OOP_lab_4\bin\Debug\net7.0\OOP_lab_4.dll
+D:\Programs\OOP_labs\OOP_lab_4\OOP_lab_4\bin\Debug\net7.0\OOP_lab_4.pdb
+D:\Programs\OOP_labs\OOP_lab_4\OOP_lab_4\obj\Debug\net7.0\OOP_lab_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\OOP_labs\OOP_lab_4\OOP_lab_4\obj\Debug\net7.0\OOP_lab_4.AssemblyInfoInputs.cache
+D:\Programs\OOP_labs\OOP_lab_4\OOP_lab_4\obj\Debug\net7.0\OOP_lab_4.AssemblyInfo.cs
+D:\Programs\OOP_labs\OOP_lab_4\OOP_lab_4\obj\Debug\net7.0\OOP_lab_4.csproj.CoreCompileInputs.cache
+D:\Programs\OOP_labs\OOP_lab_4\OOP_lab_4\obj\Debug\net7.0\OOP_lab_4.dll
+D:\Programs\OOP_labs\OOP_lab_4\OOP_lab_4\obj\Debug\net7.0\refint\OOP_lab_4.dll
+D:\Programs\OOP_labs\OOP_lab_4\OOP_lab_4\obj\Debug\net7.0\OOP_lab_4.pdb
+D:\Programs\OOP_labs\OOP_lab_4\OOP_lab_4\obj\Debug\net7.0\OOP_lab_4.genruntimeconfig.cache
+D:\Programs\OOP_labs\OOP_lab_4\OOP_lab_4\obj\Debug\net7.0\ref\OOP_lab_4.dll

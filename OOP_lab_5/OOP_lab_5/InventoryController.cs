@@ -30,5 +30,28 @@ namespace OOP_lab_5 {
                 Console.WriteLine(ex.Message);
             }
         }
+
+        public void ActivateRebootControll() { 
+            try {
+                RebootInventory();
+            } catch(Exception err) {
+                Console.WriteLine(err.Message);
+            }
+        }
+
+        public void RebootInventory() {
+            List<string> test = null;
+
+            try {
+                if (test == null)
+                    throw new Exception();
+            } catch(Exception err) {
+                Console.WriteLine(err.Message);
+                Console.WriteLine($"Place: {err.TargetSite}");
+                Console.WriteLine($"Diagnostic: {err.StackTrace}");
+
+                throw;
+            }
+        }
     }
 }

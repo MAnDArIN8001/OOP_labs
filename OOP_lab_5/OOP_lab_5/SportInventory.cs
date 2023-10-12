@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Diagnostics;
 using OOP_lab_5.CustomExceptions;
 using OOP_lab_5.Items;
 
@@ -24,6 +25,8 @@ namespace OOP_lab_5 {
             try {
                 if (newItem == null)
                     throw new MissedItemException("this item is null");
+
+                Debug.Assert(newItem.price > 0, "price must be greater then 0");
 
                 _items.Add(newItem);
             } catch(MissedItemException ex) { 

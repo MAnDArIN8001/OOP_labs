@@ -1,0 +1,14 @@
+D:\Programs\OOP_labs\OOP_lab_7\OOP_lab_7\bin\Debug\net7.0\OOP_lab_7.exe
+D:\Programs\OOP_labs\OOP_lab_7\OOP_lab_7\bin\Debug\net7.0\OOP_lab_7.deps.json
+D:\Programs\OOP_labs\OOP_lab_7\OOP_lab_7\bin\Debug\net7.0\OOP_lab_7.runtimeconfig.json
+D:\Programs\OOP_labs\OOP_lab_7\OOP_lab_7\bin\Debug\net7.0\OOP_lab_7.dll
+D:\Programs\OOP_labs\OOP_lab_7\OOP_lab_7\bin\Debug\net7.0\OOP_lab_7.pdb
+D:\Programs\OOP_labs\OOP_lab_7\OOP_lab_7\obj\Debug\net7.0\OOP_lab_7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\OOP_labs\OOP_lab_7\OOP_lab_7\obj\Debug\net7.0\OOP_lab_7.AssemblyInfoInputs.cache
+D:\Programs\OOP_labs\OOP_lab_7\OOP_lab_7\obj\Debug\net7.0\OOP_lab_7.AssemblyInfo.cs
+D:\Programs\OOP_labs\OOP_lab_7\OOP_lab_7\obj\Debug\net7.0\OOP_lab_7.csproj.CoreCompileInputs.cache
+D:\Programs\OOP_labs\OOP_lab_7\OOP_lab_7\obj\Debug\net7.0\OOP_lab_7.dll
+D:\Programs\OOP_labs\OOP_lab_7\OOP_lab_7\obj\Debug\net7.0\refint\OOP_lab_7.dll
+D:\Programs\OOP_labs\OOP_lab_7\OOP_lab_7\obj\Debug\net7.0\OOP_lab_7.pdb
+D:\Programs\OOP_labs\OOP_lab_7\OOP_lab_7\obj\Debug\net7.0\OOP_lab_7.genruntimeconfig.cache
+D:\Programs\OOP_labs\OOP_lab_7\OOP_lab_7\obj\Debug\net7.0\ref\OOP_lab_7.dll

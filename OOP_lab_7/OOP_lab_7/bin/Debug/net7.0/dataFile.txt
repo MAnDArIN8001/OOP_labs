@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UserOfInt32 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>john</name>
+  <email>email@gm.com</email>
+  <password>16hf6</password>
+</UserOfInt32>
