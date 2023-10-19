@@ -42,7 +42,6 @@ namespace OOP_lab_7 {
         private Item<T> _rootElement;
         private Item<T> _lastElement;
 
-
         public int count { get => _count; }
 
         public RefList() {
